@@ -4,7 +4,7 @@ A practical workflow guide for designers who want to ship production frontend co
 
 ## What's in here
 
-[`vibecodingfang-source-en.md`](./vibecodingfang-source-en.md) — The main guide. Covers environment setup, how to work with Claude Code, prompt templates, Git basics for designers, and how to collaborate with engineers through PR reviews.
+[`Designer's-vibe-coding-guide.md`](./Designer's-vibe-coding-guide.md) — The main guide. Covers environment setup, how to work with Claude Code, prompt templates, Git basics for designers, and how to collaborate with engineers through PR reviews.
 
 ## Why this exists
 
